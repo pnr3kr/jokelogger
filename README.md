@@ -1,1 +1,3 @@
 # jokelogger
+
+Funny haha.
